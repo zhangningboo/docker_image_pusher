@@ -6,3 +6,5 @@ xhofe/alist:latest
 # --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.40-debian
 redis:latest
+nvidia/cuda:12.6.2-cudnn-devel-ubuntu22.04
+nvidia/cuda:11.4.3-devel-ubuntu18.04
