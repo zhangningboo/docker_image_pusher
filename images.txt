@@ -9,4 +9,10 @@ redis:latest
 nvidia/cuda:12.6.2-cudnn-devel-ubuntu22.04
 nvidia/cuda:11.4.3-devel-ubuntu18.04
 mongodb/mongodb-community-server:7.0-ubi9
-
+ubuntu:jammy-20240911.1
+ubuntu:noble-20241011
+ubuntu:24.10
+ubuntu:24.04
+ubuntu:22.04
+ubuntu:20.04
+ubuntu:18.04
