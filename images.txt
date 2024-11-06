@@ -17,3 +17,4 @@ ubuntu:22.04
 ubuntu:20.04
 ubuntu:18.04
 openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22
+openvpn/openvpn-as:2.13.1-d8cdeb9c-Ubuntu22
