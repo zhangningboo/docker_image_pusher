@@ -24,3 +24,4 @@ redis:6-alpine
 langgenius/dify-sandbox:0.2.10
 semitechnologies/weaviate:1.19.0
 ubuntu/squid:edge
+langgenius/dify-api:0.11.0
