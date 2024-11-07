@@ -19,3 +19,4 @@ ubuntu:18.04
 openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22
 openvpn/openvpn-as:2.13.1-d8cdeb9c-Ubuntu22
 vllm/vllm-openai:v0.6.0
+postgres:15-alpine
