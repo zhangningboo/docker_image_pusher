@@ -31,3 +31,4 @@ nginx:stable-perl
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.1
