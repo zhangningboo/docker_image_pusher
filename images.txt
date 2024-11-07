@@ -28,3 +28,4 @@ langgenius/dify-api:0.11.0
 langgenius/dify-web:0.11.0
 certbot/certbot:v3.0.0
 nginx:stable-perl
+langgenius/qdrant:v1.7.3
