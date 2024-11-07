@@ -21,3 +21,4 @@ openvpn/openvpn-as:2.13.1-d8cdeb9c-Ubuntu22
 vllm/vllm-openai:v0.6.0
 postgres:15-alpine
 redis:6-alpine
+langgenius/dify-sandbox:0.2.10
