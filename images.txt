@@ -30,3 +30,4 @@ certbot/certbot:v3.0.0
 nginx:stable-perl
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0
