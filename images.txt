@@ -44,3 +44,4 @@ docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 --platform=arm64 mysql:latest
+--platform=linux/arm64/v8 ubuntu:20.04
