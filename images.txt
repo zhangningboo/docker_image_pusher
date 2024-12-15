@@ -47,3 +47,4 @@ oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 --platform=linux/arm64/v8 ubuntu:20.04
 node:18-alpine
 mcr.microsoft.com/playwright:v1.40.0-jammy
+mysql:9.1.0
