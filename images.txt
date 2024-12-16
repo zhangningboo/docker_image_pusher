@@ -49,3 +49,4 @@ node:18-alpine
 mcr.microsoft.com/playwright:v1.40.0-jammy
 mysql:9.1.0
 --platform=arm64 mysql:9.1.0
+sophgo/tpuc_dev:v3.4-cuda
