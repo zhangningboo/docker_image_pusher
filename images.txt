@@ -51,4 +51,4 @@ mysql:9.1.0
 --platform=arm64 mysql:9.1.0
 sophgo/tpuc_dev:v3.4-cuda
 --platform=arm64 postgres:17.2-alpine3.21
---platform=linux/arm64/v8 ubuntu:24.04
+--platform=arm64 ubuntu:24.04
