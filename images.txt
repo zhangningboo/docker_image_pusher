@@ -19,7 +19,6 @@ ubuntu:18.04
 openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22
 openvpn/openvpn-as:2.13.1-d8cdeb9c-Ubuntu22
 vllm/vllm-openai:v0.6.0
-postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
 semitechnologies/weaviate:1.19.0
@@ -53,3 +52,4 @@ sophgo/tpuc_dev:v3.4-cuda
 --platform=arm64 postgres:17.2-alpine3.21
 --platform=arm64 ubuntu:24.04
 postgres:17.2
+nvidia/cuda:12.6.3-cudnn-devel-ubuntu24.04
