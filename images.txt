@@ -53,3 +53,4 @@ sophgo/tpuc_dev:v3.4-cuda
 --platform=arm64 ubuntu:24.04
 postgres:17.2
 nvidia/cuda:12.6.3-cudnn-devel-ubuntu24.04
+wenjunxiao/desktop-docker-connector
