@@ -56,4 +56,4 @@ nvidia/cuda:12.6.3-cudnn-devel-ubuntu24.04
 wenjunxiao/desktop-docker-connector
 --platform=linux/arm64 wenjunxiao/desktop-docker-connector
 --platform=linux/arm64/v8 mariadb:lts-ubi9
-
+node:16.16.0
