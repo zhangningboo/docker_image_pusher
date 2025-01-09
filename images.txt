@@ -61,3 +61,4 @@ langgenius/dify-api:0.15.0
 langgenius/dify-web:0.15.0
 pingcap/tidb:v8.4.0
 ghcr.io/chroma-core/chroma:0.5.20
+quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
