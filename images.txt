@@ -57,3 +57,4 @@ wenjunxiao/desktop-docker-connector
 --platform=linux/arm64 wenjunxiao/desktop-docker-connector
 --platform=linux/arm64/v8 mariadb:lts-ubi9
 node:16.16.0
+langgenius/dify-api:0.15.0
