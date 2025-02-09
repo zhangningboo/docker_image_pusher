@@ -63,5 +63,4 @@ pingcap/tidb:v8.4.0
 ghcr.io/chroma-core/chroma:0.5.20
 quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 milvusdb/milvus:v2.5.0-beta
-juicedata/juicefs:1.2.2
---platform=linux/arm64 encord/encord-active:v0.1.83
+encord/encord-active:v0.1.83
