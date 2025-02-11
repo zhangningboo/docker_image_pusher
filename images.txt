@@ -65,3 +65,4 @@ quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 milvusdb/milvus:v2.5.0-beta
 encord/encord-active:v0.1.83
 --platform=linux/arm64 encord/encord-active:v0.1.83
+--platform=linux/arm64/v8 redis:latest
