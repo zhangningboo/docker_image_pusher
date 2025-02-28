@@ -67,3 +67,4 @@ encord/encord-active:v0.1.83
 --platform=linux/arm64 encord/encord-active:v0.1.83
 --platform=linux/arm64/v8 redis:latest
 zlmediakit/zlmediakit:master
+--platform=linux/arm64 openeuler/openeuler:22.03
