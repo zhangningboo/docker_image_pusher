@@ -69,3 +69,4 @@ encord/encord-active:v0.1.83
 zlmediakit/zlmediakit:master
 --platform=linux/arm64 openeuler/openeuler:22.03
 --platform=linux/arm64 openeuler/openeuler:24.03
+--platform=linux/arm64 minio/minio:RELEASE.2025-02-28T09-55-16Z
