@@ -72,3 +72,4 @@ zlmediakit/zlmediakit:master
 --platform=linux/arm64 minio/minio:RELEASE.2025-02-28T09-55-16Z
 mpromonet/webrtc-streamer:v0.8.10-arm64
 --platform=linux/arm64/v8 rmqtt/rmqtt:0.11.0
+rmqtt/rmqtt:0.12.1
