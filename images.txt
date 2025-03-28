@@ -74,3 +74,4 @@ mpromonet/webrtc-streamer:v0.8.10-arm64
 --platform=linux/arm64/v8 rmqtt/rmqtt:0.11.0
 rmqtt/rmqtt:0.12.1
 jumpmind/symmetricds:3.16.0
+emqx/emqx:5.8
