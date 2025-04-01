@@ -75,3 +75,4 @@ mpromonet/webrtc-streamer:v0.8.10-arm64
 rmqtt/rmqtt:0.12.1
 jumpmind/symmetricds:3.16.0
 emqx/emqx:5.8
+openeuler/openeuler:25.03
