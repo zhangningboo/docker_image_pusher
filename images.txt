@@ -76,3 +76,4 @@ rmqtt/rmqtt:0.12.1
 jumpmind/symmetricds:3.16.0
 emqx/emqx:5.8
 openeuler/openeuler:25.03
+--platform=linux/arm64 emqx/emqx:5.8
