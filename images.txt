@@ -80,3 +80,4 @@ openeuler/openeuler:25.03
 greatsql/greatsql:8.0.32-27
 --platform=linux/arm64 greatsql/greatsql:8.0.32-27
 --platform=linux/arm64 opengauss/opengauss-server:7.0.0-RC2.B005
+--platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B005
