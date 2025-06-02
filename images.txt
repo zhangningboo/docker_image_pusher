@@ -86,3 +86,5 @@ greatsql/greatsql:8.0.32-27
 --platform=linux/arm64 zabbix/zabbix-web-nginx-pgsql:trunk-ubuntu
 --platform=linux/arm64 zabbix/zabbix-snmptraps:trunk-ubuntu
 --platform=linux/arm64/v8 nginx:stable-perl
+--platform=linux/arm64/v8 ubuntu:25.04
+ubuntu:25.04
