@@ -88,3 +88,4 @@ greatsql/greatsql:8.0.32-27
 --platform=linux/arm64/v8 nginx:stable-perl
 --platform=linux/arm64/v8 ubuntu:25.04
 ubuntu:25.04
+sophgo/tpuc_dev:v3.4-20250411
