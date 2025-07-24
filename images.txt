@@ -89,3 +89,5 @@ greatsql/greatsql:8.0.32-27
 --platform=linux/arm64/v8 ubuntu:25.04
 ubuntu:25.04
 sophgo/tpuc_dev:v3.4-20250411
+--platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.37
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.37
