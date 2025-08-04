@@ -91,3 +91,5 @@ ubuntu:25.04
 sophgo/tpuc_dev:v3.4-20250411
 --platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.37
 --platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.37
+--platform=linux/arm64/v8 emqx:5.8.7
+--platform=linux/amd64 emqx:5.8.7
