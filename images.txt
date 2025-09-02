@@ -95,3 +95,5 @@ sophgo/tpuc_dev:v3.4-20250411
 --platform=linux/amd64 emqx:5.8.7
 --platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.48
 --platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.48
+--platform=linux/arm64/v8 redis:8.2.1-bookworm
+--platform=linux/amd64 redis:8.2.1-bookworm
