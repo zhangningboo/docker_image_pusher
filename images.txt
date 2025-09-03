@@ -1,2 +1,2 @@
---platform=linux/arm64/v8 postgres:17.6
---platform=linux/amd64 postgres:17.6
+--platform=linux/arm64/v8 redis:8.2.1-bookworm
+--platform=linux/amd64 redis:8.2.1-bookworm
