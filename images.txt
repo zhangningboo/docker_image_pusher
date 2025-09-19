@@ -1,2 +1,2 @@
---platform=linux/arm64/v8 redis:8.2.1-bookworm
---platform=linux/amd64 redis:8.2.1-bookworm
+--platform=linux/arm64/v8 nginx:1.29.1-perl
+--platform=linux/amd64 nginx:1.29.1-perl
