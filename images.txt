@@ -1,2 +1,2 @@
---platform=linux/arm64/v8 emqx:5.8.8
---platform=linux/amd64 emqx:5.8.8
+--platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.60
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.60
