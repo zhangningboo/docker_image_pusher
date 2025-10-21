@@ -1,1 +1,2 @@
---platform=linux/amd64 nginx:1.29.1-perl
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.64
+--platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.64
