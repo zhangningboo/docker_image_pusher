@@ -1,2 +1,2 @@
---platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.64
---platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.64
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.67
+--platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.67
