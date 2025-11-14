@@ -1,1 +1,2 @@
+
 --platform=linux/amd64 linuxserver/firefox:1.2404.1
