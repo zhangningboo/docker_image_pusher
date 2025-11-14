@@ -1,2 +1,1 @@
---platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.67
---platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.67
+--platform=linux/amd64 linuxserver/firefox:1.2404.1
