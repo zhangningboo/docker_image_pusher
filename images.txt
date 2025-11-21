@@ -1,2 +1,2 @@
---platform=linux/amd64 postgres:17.7
---platform=linux/arm64/v8 postgres:17.7
+--platform=linux/amd64 emqx:5.8.8
+--platform=linux/arm64/v8 emqx:5.8.8
