@@ -1,2 +1,2 @@
---platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.69
---platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.69
+--platform=linux/amd64 postgres:17.7
+--platform=linux/arm64/v8 postgres:17.7
