@@ -1,2 +1,1 @@
---platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.72
---platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.72
+--platform=linux/amd64 registry:3.0.0
