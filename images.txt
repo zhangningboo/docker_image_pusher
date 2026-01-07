@@ -1,2 +1,1 @@
---platform=linux/amd64 tenable/nessus:10.11.1-ubuntu
---platform=linux/arm64 tenable/nessus:10.11.1-ubuntu
+--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/lazyllm:dev-latest
