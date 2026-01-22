@@ -1,1 +1,1 @@
---platform=linux/amd64 nvidia/cuda:11.0.3-base-ubuntu20.04
+--platform=linux/amd64 nvidia/cuda:13.1.0-runtime-ubuntu24.04
