@@ -1,1 +1,1 @@
---platform=linux/amd64 vllm/vllm-openai:v0.14.0-cu130
+--platform=linux/amd64 nvidia/cuda:11.0.3-base-ubuntu20.04
