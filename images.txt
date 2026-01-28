@@ -1,1 +1,2 @@
---platform=linux/amd64 nvidia/cuda:12.4.1-base-ubuntu22.04
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.81
+--platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.81
