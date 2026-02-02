@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 nginx:stable-alpine3.23-slim
+--platform=linux/amd64 nginx:stable-alpine3.23-perl
