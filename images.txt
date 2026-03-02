@@ -1,1 +1,1 @@
-langgenius/dify-web:hotfix-1.13.0-fix.1
+langgenius/dify-sandbox:0.2.12
