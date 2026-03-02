@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.12
+postgres:15-alpine
