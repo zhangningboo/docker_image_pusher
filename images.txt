@@ -1,1 +1,1 @@
---platform=linux/amd64 gitea/gitea:1.25
+langgenius/dify-web:hotfix-1.13.0-fix.1
