@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:main-local
+langgenius/dify-api:hotfix-1.13.0-fix.1
