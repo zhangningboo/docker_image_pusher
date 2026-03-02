@@ -1,1 +1,1 @@
-nginx:1.29.5-perl
+ubuntu/squid:latest
