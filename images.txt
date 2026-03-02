@@ -1,1 +1,1 @@
-redis:6-alpine
+nginx:1.29.5-perl
