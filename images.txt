@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.27.0
+langgenius/dify-plugin-daemon:main-local
