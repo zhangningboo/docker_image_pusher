@@ -1,1 +1,1 @@
-sophgo/tpuc_dev:v3.4.6-cuda
+--platform=linux/amd64 ubuntu:20.04
