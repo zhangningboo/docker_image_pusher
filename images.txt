@@ -1,2 +1,2 @@
---platform=linux/amd64 ros:humble
---platform=linux/arm64/v8 ros:humble
+--platform=linux/amd64 rustfs/rustfs:1.0.0-alpha.90
+--platform=linux/arm64/v8 rustfs/rustfs:1.0.0-alpha.90
