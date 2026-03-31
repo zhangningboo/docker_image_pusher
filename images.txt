@@ -1,2 +1,2 @@
---platform=linux/amd64 ros:humble-ros-base
---platform=linux/arm64/v8 ros:humble-ros-base
+--platform=linux/amd64 ubuntu:jammy-20260217
+--platform=linux/arm64/v8 ubuntu:jammy-20260217
