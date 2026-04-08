@@ -1,2 +1,2 @@
---platform=linux/amd64 postgres:17.6
---platform=linux/arm64/v8 postgres:17.6
+--platform=linux/amd64 ubuntu:focal-20250404
+--platform=linux/arm64/v8 ubuntu:focal-20250404
