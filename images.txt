@@ -1,2 +1,2 @@
---platform=linux/amd64 ubuntu:noble-20260324
---platform=linux/arm64/v8 ubuntu:noble-20260324
+--platform=linux/amd64 nvidia/cuda:13.2.0-cudnn-devel-ubuntu24.04
+--platform=linux/arm64 nvidia/cuda:13.2.0-cudnn-devel-ubuntu24.04
