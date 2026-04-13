@@ -1,2 +1,2 @@
---platform=linux/amd64 nvidia/cuda:12.1.0-cudnn8-devel-ubi8
---platform=linux/arm64 nvidia/cuda:12.1.0-cudnn8-devel-ubi8
+--platform=linux/amd64 nvidia/cuda:12.1.0-devel-ubuntu20.04
+--platform=linux/arm64 nvidia/cuda:12.1.0-devel-ubuntu20.04
