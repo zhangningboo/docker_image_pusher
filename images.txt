@@ -1,1 +1,1 @@
---platform=linux/amd64 rlinf/rlinf:agentic-rlinf0.2-maniskill_libero
+--platform=linux/amd64 nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
