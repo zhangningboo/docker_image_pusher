@@ -1,1 +1,1 @@
---platform=linux/amd64 ubuntu:26.04
+--platform=linux/arm64 ubuntu:26.04
