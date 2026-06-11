@@ -1,1 +1,1 @@
---platform=linux/amd64 nvidia/cuda:13.2.1-cudnn-devel-ubuntu24.04
+--platform=linux/amd64 osrf/ros:jazzy-desktop-full
