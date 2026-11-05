@@ -18,6 +18,25 @@ jobs:
     name: Pull
     runs-on: ubuntu-latest
     steps:
+    - name: Free disk space before pulling image
+      shell: bash
+      run: |
+        echo "===== Before cleanup ====="
+        df -h /
+    
+        # 删除 Runner 预装的大型开发工具
+        sudo rm -rf /usr/local/lib/android
+        sudo rm -rf /usr/share/dotnet
+        sudo rm -rf /opt/ghc
+        sudo rm -rf /usr/local/.ghcup
+    
+        # 清理无用的 Docker 镜像及构建缓存
+        docker system prune -af
+        docker builder prune -af
+    
+        echo "===== After cleanup ====="
+        df -h /
+        docker system df
     - name: Before freeing up disk space
       run: |
         echo "Before freeing up disk space"
